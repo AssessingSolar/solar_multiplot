@@ -4,7 +4,7 @@ This repository contains the source code for the multiplot introduced in (Forsti
 
 ## Example
 
-![plot](../visby_qc.png)
+![plot](Visby_qc_2015.png)
 
 
 
